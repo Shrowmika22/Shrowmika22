@@ -14,6 +14,7 @@ Hi there 👋 I'm Shrowmika Kommu<br><br>Passionate about AI, Machine Learning, 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shrowmika22&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shrowmika22&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shrowmika22&limit=5&theme=dark&combine_all_yearly_contributions=true)
